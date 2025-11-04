@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   <img src="https://img.shields.io/badge/ETL%20%26%20Modelagem-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="ETL & Modelagem Badge"/>
-  <img src="https://img.shields.io/badge/ERP%20(TOTVS)-000000?style=for-the-badge&logo=apache&logoColor=white" alt="ERP (TOTVS) Badge"/>
+  <img src="https://img.shields.io/badge/ERP-4B4B4B?style=for-the-badge&logo=apache&logoColor=white" alt="ERP Badge"/> 
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white" alt="Excel Badge"/>
 </p>
 
