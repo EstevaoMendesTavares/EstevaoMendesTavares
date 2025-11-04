@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Estêvão Mendes, Analista de Dados
 
-💼 **Analista de Dados Estratégico | Business Intelligence (BI)**
+💼 **Analista de Dados | Business Intelligence (BI)**
 📧 **estevaomendes@hotmail.com**
-📞 **(21) 97466-7030**
 
 ---
 
