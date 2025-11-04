@@ -30,12 +30,3 @@
 Analista de Dados Estratégico com foco em **Business Intelligence (BI)**. Especializado na concepção e desenvolvimento de soluções de BI, utilizando **Power BI** e **Tableau** para criar dashboards interativos, e **SQL** para modelagem e integração de dados (ETL). Experiência na **transformação de dados brutos em informações estratégicas** para apoiar decisões e otimizar processos. Formado em Análise e Desenvolvimento de Sistemas.
 
 ---
-
-## 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas – UNINTER (Concluído em 2025)**
-
----
-
-<br>
-
-💬 *Este repositório serve como meu portfólio técnico, reunindo projetos e estudos pessoais em dados e tecnologia. Fique à vontade para explorar os repositórios abaixo!*
