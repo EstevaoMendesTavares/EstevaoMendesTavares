@@ -1,8 +1,5 @@
 # 👋 Olá! Eu sou Estêvão Mendes, Analista de Dados
 
-💼 **Analista de Dados | Power BI | SQL | Tableau | ERP**
-📧 estevaomendes@hotmail.com
-
 ---
 
 ## 🚀 Meus Links e Contato
