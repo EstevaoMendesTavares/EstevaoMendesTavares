@@ -25,8 +25,3 @@
 </p>
 
 ---
-
-## 👨‍💻 Perfil Profissional
-Analista de Dados Estratégico com foco em **Business Intelligence (BI)**. Especializado na concepção e desenvolvimento de soluções de BI, utilizando **Power BI** e **Tableau** para criar dashboards interativos, e **SQL** para modelagem e integração de dados (ETL). Experiência na **transformação de dados brutos em informações estratégicas** para apoiar decisões e otimizar processos em ambientes **ERP (TOTVS/SAP)**. Formado em Análise e Desenvolvimento de Sistemas.
-
----
